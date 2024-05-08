@@ -1282,7 +1282,8 @@ plot_histograms(new_df)
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_23_0.png)
+![png](![Track2 - Duleep_23_0](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/2a25bf59-ee11-4d12-8d24-e4299606b43b))
+
     
 
 
@@ -1290,11 +1291,8 @@ plot_histograms(new_df)
 ```python
 plot_boxplot_num_cols(new_df)
 ```
+![Track2 - Duleep_24_0](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/15c8f102-720c-4898-b2d9-2a086ddda2e4)
 
-
-    
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_24_0.png)
-    
 
 
 
@@ -1304,8 +1302,8 @@ plot_distribution_plots(new_df)
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_25_0.png)
-    
+![Track2 - Duleep_25_0](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/3824fa8b-82eb-4f26-8613-916ef0624b7f)
+
 
 
 
@@ -1315,7 +1313,8 @@ make_countplot(new_df)
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_26_0.png)
+![Track2 - Duleep_26_0](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/3ba54595-e3eb-435d-a84c-5b83570ba68f)
+
     
 
 
@@ -1326,7 +1325,8 @@ plot_correlation_matrix(new_df)
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_27_0.png)
+![Track2 - Duleep_27_0](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/99284d30-73ca-4838-bfb3-383fe3dda9dd)
+
     
 
 
@@ -1567,7 +1567,8 @@ for model_name, model in models.items():
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_42_1.png)
+![Track2 - Duleep_42_1](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/da12dcef-8b60-44a3-8abb-bc7c6f2e8c97)
+
     
 
 
@@ -1587,7 +1588,8 @@ for model_name, model in models.items():
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_42_3.png)
+![Track2 - Duleep_42_3](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/3abd9e22-d44c-4b3b-9a14-928b601219d7)
+
     
 
 
@@ -1607,7 +1609,8 @@ for model_name, model in models.items():
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_42_5.png)
+![Track2 - Duleep_42_5](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/f922d59d-ad93-4cd1-9cc8-91d73abbcfc9)
+
     
 
 
@@ -1627,7 +1630,8 @@ for model_name, model in models.items():
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_42_7.png)
+![Track2 - Duleep_42_7](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/637f2603-dfd0-48d2-8f75-5db0aa38d9ae)
+
     
 
 
@@ -1647,7 +1651,8 @@ for model_name, model in models.items():
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_42_9.png)
+![Track2 - Duleep_42_9](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/8ddc27b2-eac7-4418-a317-75a54a1d4275)
+
     
 
 
@@ -1667,7 +1672,8 @@ for model_name, model in models.items():
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_42_11.png)
+![Track2 - Duleep_42_11](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/9e301952-93fa-40e2-b56b-46853a43877d)
+
     
 
 
@@ -1687,7 +1693,8 @@ for model_name, model in models.items():
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_42_13.png)
+![Track2 - Duleep_42_13](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/741f0897-db97-4d8e-a2a7-d84aa60bb523)
+
     
 
 
@@ -1720,7 +1727,8 @@ plt.show()
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_43_0.png)
+![Track2 - Duleep_43_0](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/a1c09e6d-ed9e-4d15-8159-1ccc78967f30)
+
     
 
 
@@ -1859,7 +1867,8 @@ print(classification_report(y_pred,y_test))
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_51_0.png)
+![Track2 - Duleep_51_0](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/17ff18ab-769b-4954-bfd3-15ce5ca881e8)
+
     
 
 
@@ -1902,7 +1911,8 @@ plt.show()
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_55_0.png)
+![Track2 - Duleep_55_0](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/cf627d56-901d-4e1a-8de8-eb69c8b3c529)
+
     
 
 
@@ -2060,7 +2070,8 @@ plt.show()
 
 
     
-![png](Track2%20-%20Duleep_files/Track2%20-%20Duleep_57_0.png)
+![Track2 - Duleep_57_0](https://github.com/duleepdaniel/creditScoreEvaluation/assets/67256324/2a4e7531-59eb-4ed2-9f3f-1104285d42b3)
+
     
 
 

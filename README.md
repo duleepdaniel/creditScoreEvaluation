@@ -1,4 +1,4 @@
-# creditScoreEvaluation
+# Credit Score Evaluation Using Stacking Classifier
 ### Kagle DataSet
 https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 

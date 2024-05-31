@@ -1,7 +1,10 @@
 # Credit Score Evaluation Using Stacking Classifier
 
-### Kagle DataSet
+### Kaggle DataSet
 https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+
+### Kaggle WorkBook
+https://www.kaggle.com/code/duleeppanthagani/creditscoreevaluation/notebook
 
 ### Collab Worksheet
 https://colab.research.google.com/drive/1tUQAUQ7hDwDGzJ1oxgl1Td_WCaECe4RK?usp=sharing
